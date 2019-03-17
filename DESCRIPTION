@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "renatavgerecke@gmail.com")
 Description: A personal package for my own nonsense! Currently focusing on making it more fun to work with SPSS data in R
-License: What license it uses
+License: Creative Commons Attribution-ShareAlike 4.0 International License
 Encoding: UTF-8
 LazyData: true
 Imports:
